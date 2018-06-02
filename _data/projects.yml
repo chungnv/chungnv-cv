@@ -1,0 +1,11 @@
+intro: "Some major project"
+projects:
+  - project:
+    title: Revenue Assurance and Fraud Management
+    tagline: "Detect revenue loss and leakage, and fraud in telecom system. Process 5 billion rows and 6TB data per day"
+  - project:
+    title: Interconnect System
+    tagline: "Process generated CDRs from switchboard and do interconnect business for a telecom provider"
+  - project:
+    title: Search Route
+    tagline: "For custormer to find the best ruote with bus, ferry, flights and certain services"

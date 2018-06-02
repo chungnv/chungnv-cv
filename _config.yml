@@ -1,0 +1,48 @@
+# Site Settings
+title: Pham Thanh Tu Resume
+description: "Curriculum Vitae of tu@agiletech.vn"
+url: 'http://agiletech.vn'
+baseurl: 'https://agiletechvn.github.io' #change it according to your repository name
+about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
+
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+# style: styles-2
+#style: styles-3
+style: styles-4
+#style: styles-5
+#style: styles-6
+
+
+#Profile information
+name: Pham Thanh Tu
+tagline: Solution Architect
+pic: https://github.com/tubackkhoa.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: "I'm 32 years old CTO of Agiletech Viet Nam and senior developer from the cozy street of Ha Noi. I have more than 10 years of work experience in various positions.
+I love coding, music and having time with my family.
+I'm also an international speaker of AI & Blockchain and the admin of <a href='https://www.facebook.com/groups/1561844270543595/' target='_blank'>Vietnam Blockchain Developers</a>.
+My visionary believed that teamwork is essential to delivering great software.
+<br>
+You can view more about <a href='http://agiletech.vn' target='_blank'>Agiletech Viet Nam</a>."
+
+#sidebar links
+email: tu@agiletech.vn
+phone: +84 12 141 49420
+website: agiletech.vn #do not add http://
+linkedin: pham-thanh-tu
+github: tubackkhoa
+twitter: '@tubackkhoa'
+#Update all the sections by editing the files inside _data folder.
+
+# uncomment the next line, if you want the education section displayed in main instead of the sidebar
+#education_in_main: True
+
+# Tracker
+analytics: UA-119187154-1
+
+# Build settings
+encoding: "utf-8"
+compress_html: # - http://jch.penibelst.de/
+  clippings: all
+  ignore:
+    envs: development

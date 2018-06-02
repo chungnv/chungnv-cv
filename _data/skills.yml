@@ -1,0 +1,30 @@
+- skill:
+  name: Java Core, Java EE
+  level: 99%
+- skill:
+  name: Java Framework:Struts, Spring, ZK, Primefaces
+  level: 95%
+- skill:
+  name: Database:Oracle, MySQL, SQLServer, DB2
+  level: 95%
+- skill:
+  name: Bigdata & NoSQL:Hadoop, Spark, Storm, Hive, Impala, MongoDB
+  level: 95%
+- skill:
+  name: Message Broker:Kafka, ActiveMQ
+  level: 98%
+- skill:
+  name: Inmemory:Redis, Memcache, Aerospike 
+  level: 98%
+- skill:
+  name: Full Text Search:Elastichsearch, Solr
+  level: 98%  
+- skill:
+  name: Centralized service:ZooKeeper
+  level: 98%
+- skill:
+  name: Machine Learning:Python, Scikit-learn, tensorflow, Word2Vec
+  level: 90% 
+- skill:
+  name: HTML, CSS, JavaScript
+  level: 50%
